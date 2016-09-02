@@ -6,13 +6,14 @@ This repository contains the scripts/recipes and snippets from the Batchography 
 # Table of Contents
 
 ## INTRODUCTION
-
+<pre>
 What are Batch files?  
 Who is this book for?  
 How to best read this book?  
 Conventions used in this book  
 What does the book cover?  
 More Batch files scripting material  
+</pre>
 ## CHAPTER 1 – BATCH FILES SCRIPTING LANGUAGE BASICS  
 <pre>
 Getting started  
